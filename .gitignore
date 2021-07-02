@@ -1,0 +1,10 @@
+Core/obj/Core.csproj.nuget.g.targets
+Core/obj/Debug/net5.0/Core.dll
+Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+obj
+bin
+appsettings.json
+*.db
+*.dll
+*.cache
+*.pdb
